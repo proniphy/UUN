@@ -3,7 +3,7 @@ using System;
 
 namespace Human.Mars
 {
-    public class Ambasdor : IAmbassador
+    public class Ambassador : IAmbassador
     {
         public void Speak()
         {
