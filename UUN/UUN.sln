@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Tools", "Common.Tool
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Humans.Earth", "Humans.Earth\Humans.Earth.csproj", "{3E61635D-9CA4-41AE-ACAD-BFE55A1D47E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Human.Mars", "Human.Mars\Human.Mars.csproj", "{1142F662-B16C-40A8-AD91-7E3E77036752}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Humans.Mars", "Human.Mars\Humans.Mars.csproj", "{1142F662-B16C-40A8-AD91-7E3E77036752}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

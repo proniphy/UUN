@@ -6,7 +6,10 @@ namespace Humans.Earth
 {
     internal abstract class Human
     {
-        bool ExpressOppinion(string theme)
+        internal abstract string Name { get; set; }
+        internal abstract void Speak();
+
+        bool ExpressOpinion(string theme)
         {
             bool result = false;
             if (theme.Length > 100)
